@@ -1,1 +1,2 @@
-ini test pertama
+ini test pertama. ini test kedua.
+ini test ketiga
