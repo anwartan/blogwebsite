@@ -1,0 +1,43 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+/* body {
+  font-family: "Poppins", sans-serif;
+} */
+.jumbotron {
+  height: 50%;
+}
+.jumbotron-img {
+  width: 70%;
+}
+.carousel-img {
+  width: 1vw;
+
+  object-fit: cover;
+}
+
+.icon {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  background-repeat: no-repeat;
+  filter: brightness(0) invert(1);
+}
+.icon-food {
+  background-image: url(../img/food-svgrepo-com.svg);
+}
+.icon-travel {
+  background-image: url(../img/travel-svgrepo-com.svg);
+}
+.icon-fashion {
+  background-image: url(../img/dress-fashion-svgrepo-com.svg);
+}
+.icon-sport {
+  background-image: url(../img/sport-svgrepo-com.svg);
+}
+
+.prev-slide {
+}
+
+.category-caraousel {
+  width: 100px;
+  height: 100px;
+}
